@@ -69,7 +69,7 @@
     },
     "ToBePierced":{
         "keyword":"pierced",
-        "weight":1
+        "weight":100
     },
     "EmotionalRepression":{
         "keyword":"repression",
